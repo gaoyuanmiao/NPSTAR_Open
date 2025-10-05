@@ -1,0 +1,27 @@
+{
+  "title": "NPSTAR: Nonpoint Source Transport and Reduction Model (v1.0)",
+  "upload_type": "software",
+  "description": "Code and demonstration data for the NPSTAR framework, integrating machine learning, remote sensing, and distributed hydro-environmental modeling.",
+  "creators": [
+    {
+      "name": "YourSurname, YourGivenName",
+      "orcid": "0000-0000-0000-0000",
+      "affiliation": "State Key Laboratory of Regional Environment and Sustainability, Beijing Normal University"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["nonpoint source pollution", "ditch-pond", "NPSTAR", "hydro-environmental modeling"],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.TBD_DATASET",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ],
+  "funding": [
+    {
+      "agency": "National Key R&D Program of China",
+      "grant_number": "XXXXXX"
+    }
+  ]
+}
