@@ -1,6 +1,8 @@
 # NPSTAR: Nonpoint Source Transport and Reduction Model (Open Reproducibility Package)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TBD.svg)](https://doi.org/10.5281/zenodo.TBD)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17270429.svg)](https://doi.org/10.5281/zenodo.17270429)
+
+> DOI: [10.5281/zenodo.17270429](https://doi.org/10.5281/zenodo.17270429)
 
 This repository contains the **open reproducibility package** for the NPSTAR model, supporting the publication:
 

@@ -5,6 +5,8 @@
 This document describes the datasets used to reproduce the NPSTAR (Nonpoint Source Transport and Reduction) model in the open demo package.  
 The data are simplified or synthetic representations of the inputs used in the original study and are designed solely for reproducibility demonstration purposes.
 
+**DOI:** [10.5281/zenodo.17270429](https://doi.org/10.5281/zenodo.17270429)
+
 ---
 
 ## Data Sources
@@ -47,9 +49,15 @@ Each raster-type file uses the same grid dimensions to ensure model consistency.
 
 ---
 
+**Citation:**  
+If you use these datasets, please cite:  
+> Liu, GWC., Gao, Y., & Chen, L. (2025). *NPSTAR: Nonpoint Source Transport and Reduction Model (Demo Reproducibility Package)*. Zenodo. [https://doi.org/10.5281/zenodo.17270429](https://doi.org/10.5281/zenodo.17270429)
+
+---
+
 **Contact:**  
 Lei Chen (Beijing Normal University)  
-📧 chenlei1982bnu@bnu.edu.cn  
+chenlei1982bnu@bnu.edu.cn  
 
 ---
 

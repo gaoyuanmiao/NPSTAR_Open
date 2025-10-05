@@ -1,5 +1,7 @@
 # How to Reproduce the NPSTAR Demo (TN, NPSTAR-only)
 
+**DOI:** [10.5281/zenodo.17270429](https://doi.org/10.5281/zenodo.17270429)
+
 This document provides detailed, step-by-step instructions for reproducing the **NPSTAR model** demonstration.  
 It covers all processes needed to execute the **Total Nitrogen (TN)** simulation in a minimal, synthetic setting.  
 This example excludes machine learning and cost-benefit components to focus on the core NPSTAR model reproducibility.
@@ -132,8 +134,12 @@ All demo datasets are synthetic and released under **CC BY 4.0 License**.
 Real monitoring data can be provided upon reasonable request to the corresponding author.
 
 ---
+## 9. Citation and DOI
+**Citation:**  
+If you use these datasets, please cite:  
+> Liu, GWC., Gao, Y., & Chen, L. (2025). *NPSTAR: Nonpoint Source Transport and Reduction Model (Demo Reproducibility Package)*. Zenodo. [https://doi.org/10.5281/zenodo.17270429](https://doi.org/10.5281/zenodo.17270429)
 
-## 9. Contact
+## 10. Contact
 
 **Corresponding author:**  
 Lei Chen, Beijing Normal University  

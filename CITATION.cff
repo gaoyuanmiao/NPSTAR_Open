@@ -1,48 +1,48 @@
-cff-version 1.2.0
-message If you use the NPSTAR model or data in your research, please cite the following reference
-title NPSTAR Nonpoint Source Transport and Reduction Model (Demo Reproducibility Package)
-version 1.0
-doi 10.5281zenodo.1234567   # ← 替换成你生成的实际 DOI
-date-released 2025-10-05
-authors
-  - family-names Liu
-    given-names Guowangchen
-    affiliation State Key Laboratory of Regional Environmental and Sustainability Science, Beijing Normal University
-    orcid 0000-0000-0000-0000
-  - family-names Gao
-    given-names Yuan
-    affiliation State Key Laboratory of Regional Environmental and Sustainability Science, Beijing Normal University
-  - family-names Chen
-    given-names Lei
-    affiliation State Key Laboratory of Regional Environmental and Sustainability Science, Beijing Normal University
-    orcid 0000-0000-0000-0000
-abstract 
+cff-version: 1.2.0
+message: If you use the NPSTAR model or data in your research, please cite the following reference.
+title: NPSTAR: Nonpoint Source Transport and Reduction Model (Demo Reproducibility Package)
+version: 1.0
+doi: 10.5281/zenodo.17270429
+date-released: 2025-10-05
+authors:
+  - family-names: Liu
+    given-names: Guowangchen
+    affiliation: State Key Laboratory of Regional Environmental and Sustainability Science, Beijing Normal University
+    orcid: 0000-0000-0000-0000
+  - family-names: Gao
+    given-names: Yuan
+    affiliation: State Key Laboratory of Regional Environmental and Sustainability Science, Beijing Normal University
+  - family-names: Chen
+    given-names: Lei
+    affiliation: State Key Laboratory of Regional Environmental and Sustainability Science, Beijing Normal University
+    orcid: 0000-0000-0000-0000
+abstract: >
   This repository provides the reproducibility package for the NPSTAR (Nonpoint Source Transport and Reduction)
   model. It contains open-source Python code, example datasets, and documentation to reproduce total nitrogen (TN)
   simulations for small agricultural catchments. The NPSTAR framework integrates distributed hydrological modeling
   with biogeochemical and management modules to quantify and mitigate nonpoint source pollution at high spatial
   resolution.
-repository-code httpsgithub.comyour_usernameNPSTAR_Open
-keywords
+repository-code: https://github.com/your_username/NPSTAR_Open
+keywords:
   - NPSTAR
   - nonpoint source pollution
   - distributed hydro-environmental modeling
   - Beijing Normal University
   - reproducibility
   - open science
-license MIT
-type software
-preferred-citation
-  type article
-  authors
-    - family-names Liu
-      given-names Guowangchen
-    - family-names Gao
-      given-names Yuan
-    - family-names Chen
-      given-names Lei
-  title High-Resolution Remote Sensing and Machine Learning-Enhanced Distributed Hydro-Environmental Modeling for Spatially Explicit Nonpoint Source Pollution Management in Small Agricultural Catchments
-  journal Water Resources Research
-  year 2025
-  publisher AGU
-  doi 10.10292025WRXXXXXX   # ← 替换为论文正式 DOI（或留空暂存）
+license: MIT
+type: software
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Liu
+      given-names: Guowangchen
+    - family-names: Gao
+      given-names: Yuan
+    - family-names: Chen
+      given-names: Lei
+  title: High-Resolution Remote Sensing and Machine Learning-Enhanced Distributed Hydro-Environmental Modeling for Spatially Explicit Nonpoint Source Pollution Management in Small Agricultural Catchments
+  journal: Water Resources Research
+  year: 2025
+  publisher: AGU
+  doi: 10.1029/2025WRXXXXXX
