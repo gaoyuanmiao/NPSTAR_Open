@@ -1,47 +1,14 @@
 {
   "title": "NPSTAR: Nonpoint Source Transport and Reduction Model (Demo Reproducibility Package)",
   "creators": [
-    {
-      "name": "Liu, Guowangchen",
-      "affiliation": "State Key Laboratory of Regional Environmental and Sustainability Science, Beijing Normal University",
-    },
-    {
-      "name": "Gao, Yuan",
-      "affiliation": "State Key Laboratory of Regional Environmental and Sustainability Science, Beijing Normal University"
-    },
-    {
-      "name": "Chen, Lei",
-      "affiliation": "State Key Laboratory of Regional Environmental and Sustainability Science, Beijing Normal University",
-    }
+    { "name": "Liu, Guowangchen", "affiliation": "Beijing Normal University" },
+    { "name": "Gao, Yuan", "affiliation": "Beijing Normal University" },
+    { "name": "Chen, Lei", "affiliation": "Beijing Normal University" }
   ],
-  "description": "This repository contains the open-source reproducibility package for the NPSTAR (Nonpoint Source Transport and Reduction) model. The package includes demonstration code, example datasets, and documentation for running a simplified total nitrogen (TN) simulation in small agricultural catchments. It supports full reproducibility and transparency following AGU and Water Resources Research open science requirements.",
-  "keywords": [
-    "NPSTAR",
-    "nonpoint source pollution",
-    "hydro-environmental modeling",
-    "Beijing Normal University",
-    "reproducible research",
-    "open science",
-    "machine learning",
-    "water quality"
-  ],
-  "license": {
-    "id": "MIT"
-  },
-  "access_right": "open",
+  "description": "Open reproducibility package for the NPSTAR model (TN-only demo).",
   "upload_type": "software",
-  "notes": "This package is a simplified demo for reproducibility purposes. Full-resolution data and long-term simulations are available upon request from the corresponding author.",
+  "access_right": "open",
+  "license": "MIT",
   "version": "1.0",
-  "related_identifiers": [
-    {
-      "relation": "isSupplementTo",
-      "identifier": "https://doi.org/10.1029/2025WRXXXXXX",
-      "resource_type": "publication-article"
-    }
-  ],
-  "communities": [
-    { "identifier": "open-science" },
-    { "identifier": "hydrology" }
-  ],
   "language": "eng"
 }
